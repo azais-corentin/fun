@@ -1,0 +1,5 @@
+# Backups
+*-backups/
+
+# User files
+*.kicad_prl
